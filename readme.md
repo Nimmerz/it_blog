@@ -1,0 +1,1 @@
+<h1>Creating some simple blog on php</h1>
